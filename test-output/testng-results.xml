@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-28T09:55:03 IST" name="Suite" finished-at="2022-06-28T09:55:03 IST" duration-ms="155">
+    <groups>
+      <group name="smoke">
+        <method signature="Class2.Day3()[pri:0, instance:testNG.Class2@7cc0cdad]" name="Day3" class="testNG.Class2"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2022-06-28T09:55:03 IST" name="Test" finished-at="2022-06-28T09:55:03 IST" duration-ms="155">
+      <class name="testNG.Class2">
+        <test-method signature="Day3()[pri:0, instance:testNG.Class2@7cc0cdad]" started-at="2022-06-28T09:55:03 IST" name="Day3" finished-at="2022-06-28T09:55:03 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Day3 -->
+      </class> <!-- testNG.Class2 -->
+      <class name="testNG.Class1">
+        <test-method signature="Day2()[pri:0, instance:testNG.Class1@4562e04d]" started-at="2022-06-28T09:55:03 IST" name="Day2" finished-at="2022-06-28T09:55:03 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Day2 -->
+      </class> <!-- testNG.Class1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
